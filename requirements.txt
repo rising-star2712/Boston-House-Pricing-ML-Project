@@ -1,33 +1,7 @@
-certifi @ file:///C:/b/abs_ac29jvt43w/croot/certifi_1665076682579/work/certifi
-click==8.1.3
-colorama==0.4.6
-cycler==0.11.0
-Flask==2.2.2
-fonttools==4.38.0
-gunicorn==20.1.0
-importlib-metadata==5.0.0
-itsdangerous==2.1.2
-Jinja2==3.1.2
-joblib @ file:///C:/b/abs_e60_bwl1v6/croot/joblib_1666298845728/work
-kiwisolver==1.4.4
-MarkupSafe==2.1.1
-matplotlib==3.5.3
-mkl-fft==1.3.1
-mkl-random @ file:///C:/ci/mkl_random_1626186163140/work
-mkl-service==2.4.0
-numpy==1.21.6
-packaging==21.3
-pandas==1.1.5
-Pillow==9.3.0
-pyparsing==3.0.9
-python-dateutil==2.8.2
-pytz==2022.6
-scikit-learn @ file:///C:/ci/scikit-learn_1642599122269/work
-scipy @ file:///C:/ci/scipy_1661333074914/work
-six @ file:///tmp/build/80754af9/six_1644875935023/work
-sklearn==0.0.post1
-threadpoolctl @ file:///Users/ktietz/demo/mc3/conda-bld/threadpoolctl_1629802263681/work
-typing_extensions==4.4.0
-Werkzeug==2.2.2
-wincertstore==0.2
-zipp==3.10.0
+gunicorn
+scikit-learn
+sklearn
+pandas
+numpy
+matplotlib
+Flask
