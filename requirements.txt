@@ -1,6 +1,5 @@
 gunicorn
 scikit-learn
-sklearn
 pandas
 numpy
 matplotlib
